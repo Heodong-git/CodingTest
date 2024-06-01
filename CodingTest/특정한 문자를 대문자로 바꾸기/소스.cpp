@@ -22,7 +22,6 @@ string solution(string my_string, string alp)
 
 int main()
 {
-
     solution("programmers", "p");
 
     return 0;

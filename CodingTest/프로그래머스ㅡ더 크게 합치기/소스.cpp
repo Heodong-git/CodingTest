@@ -28,7 +28,7 @@ int solution(int a, int b)
     }
     else if (firstvalue == secondvalue)
     {
-        answer = firstvalue + secondvalue;
+        answer = firstvalue;
     }
 
     return answer;
